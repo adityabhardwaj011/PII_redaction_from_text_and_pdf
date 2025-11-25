@@ -1,0 +1,12 @@
+Library Checkout Record
+
+Borrower: Emily Johnson
+Library Card ID: LC-982734
+Email: emily.johnson@gmail.com
+Phone: (555) 123-4567
+Book Title: "Secrets of the Universe starlight@example.com"
+Author: Dr. Jane Goodall
+Publisher: info@bigpublishinghouse.com
+Return Date: Sept 21, 2025
+Notes: Borrower mentioned her new office address is 44 Pine Street, Springfield, MA 01103.
+

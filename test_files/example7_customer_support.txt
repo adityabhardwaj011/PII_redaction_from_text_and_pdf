@@ -1,0 +1,28 @@
+Customer Support Ticket
+
+Ticket ID: CS-2024-12345
+Date: December 5, 2024
+
+Customer Information:
+Name: Lisa Anderson
+Email: lisa.anderson@customer.com
+Phone: 1-800-555-1234
+Account Number: ACC-789456
+
+Issue Description:
+Customer reported billing discrepancy on invoice dated 11/15/2024. 
+Contacted via email at lisa.anderson@customer.com and phone at 1-800-555-1234.
+
+Billing Address:
+Lisa Anderson
+321 Commerce Street
+Chicago, IL 60601
+
+Resolution:
+Issue resolved on 12/6/2024. Credit applied to account. Customer notified via email.
+
+Follow-up Contact:
+Support Agent: John Smith
+Email: john.smith@support.com
+Phone: 312-555-9999
+

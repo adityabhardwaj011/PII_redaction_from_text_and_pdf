@@ -1,0 +1,24 @@
+Medical Record
+
+Patient Information:
+Name: Dr. Robert Martinez
+Date of Birth: 05/15/1978
+SSN: 123-45-6789
+Email: robert.martinez@healthmail.com
+Phone: 212-555-7890
+
+Address: 456 Medical Center Way, New York, NY 10001
+
+Emergency Contact:
+Name: Maria Martinez
+Relationship: Spouse
+Phone: 212-555-7891
+Email: maria.martinez@email.com
+
+Insurance Information:
+Provider: HealthCare Plus
+Policy Number: HCP-987654321
+Group Number: 12345
+
+Notes: Patient visited on 10/20/2024 for annual checkup. All vitals normal. Recommended follow-up in 6 months.
+
