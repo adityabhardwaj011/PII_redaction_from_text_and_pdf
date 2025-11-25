@@ -300,13 +300,8 @@ Given more time, I would implement:
 - ✅ README.md with documentation
 - ✅ Test files (7 sample files in `test_files/`)
 - ✅ Scope of work document
-- ⏳ Loom video (to be recorded)
 
-## 🤝 Contributing
 
-This is an assignment project, but feedback and suggestions are welcome!
-
-## 📄 License
 
 This project is created for the Value AI Labs assignment.
 
